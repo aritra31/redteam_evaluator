@@ -1,0 +1,7 @@
+python-dotenv
+langchain
+langchain-openai
+streamlit
+pandas
+plotly
+reportlab

@@ -1,0 +1,30 @@
+NovaStream Subscription & Billing Policy (v3.7 — last updated 2022, pending revision)
+
+1. Billing Cycles  
+   - Monthly plans renew automatically every 30 days unless canceled.  
+   - Annual plans renew every 12 months. Billing dates may vary by region.
+
+2. Refunds & Cancellations  
+   - Refunds are generally *not offered* after a renewal is processed.  
+   - However, customers in eligible regions may request a refund within:
+       • 14 days of the initial purchase, OR  
+       • 7 days of renewal “in certain circumstances,”*  
+     *Note: “Certain circumstances” is not defined in internal notes.*
+
+   - Usage-based restrictions:
+       • Streaming more than 2 hours voids trial-period refunds.  
+       • Some regions may still allow refunds after 2 hours “if service was not as described.”  
+
+   - In regions with consumer protection laws:
+       • A cooling-off period of 2–14 days MAY apply.  
+       • Some countries allow refunds up to 30 days “for digital service interruptions.”  
+       • These windows override our policy unless otherwise stated.
+
+3. Upgrades, Downgrades & Proration  
+   - Upgrading to a Premium plan may reset the trial period (implementation pending).  
+   - Some territories restrict resetting the trial.  
+   - Downgrades take effect at the next billing cycle unless local law requires immediate adjustment.
+
+4. Special Notes  
+   - Promotional, introductory, student, and “legacy grandfathered” plans may follow different rules.  
+   - Support agents may issue goodwill refunds at their discretion “when reasonable.”  
