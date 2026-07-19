@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+attacks/generated_attacks.json
+output/
